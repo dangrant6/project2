@@ -1,0 +1,5 @@
+set both as floats, but:
+first(left)(decimal) value is rev
+2nd(right)(whole #) is search 
+
+just make csv the two average values
